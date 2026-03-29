@@ -22,11 +22,11 @@ FinanceAI is a financial analytics web application that transforms raw bank tran
 
 4. How It Works
 
-1. Upload CSV file
-2. Data cleaning & preprocessing
-3. Transaction categorization using NLP
-4. Anomaly detection using mean & standard deviation
-5. Visualization of insights via dashboard
+- Upload CSV file
+- Data cleaning & preprocessing
+- Transaction categorization using NLP
+- Anomaly detection using mean & standard deviation
+- Visualization of insights via dashboard
 
 5. Team
 
